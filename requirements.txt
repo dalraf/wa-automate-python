@@ -1,9 +1,9 @@
 python-dateutil>=2.6.0
 selenium>=3.4.3
-six>=1.10.0
+six==1.16.0
 python-axolotl
 cryptography
 typing
 Pillow
-requests
+requests==2.31.0
 python-magic
